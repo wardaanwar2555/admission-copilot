@@ -2,7 +2,12 @@
 
 Agentic university-admissions platform: intake -> screening -> scoring -> bias audit -> scheduling -> communication,
 orchestrated with LangGraph, with a FastAPI backend and a Next.js reviewer/admin UI.
+# 1. Admissions Copilot — Application Interface
+![Admissions Copilot Application Interface](pic1.png)
 
+
+# 2. Admissions Copilot — Dashboard / Reviewer Interface
+![Admissions Copilot Application Interface](pic2.png)
 ## Quick start (local, no Docker, no API keys)
 ```bash
 cp .env.example .env
