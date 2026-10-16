@@ -20,7 +20,7 @@ curl -X POST "localhost:8000/dev/seed?n=300" -H "X-API-Key: change-me-staff-key"
 cd web && cp .env.local.example .env.local && npm install && npm run dev   # http://localhost:3000
 ```
 Pages: `/` apply, `/status/<id>` live status (WebSocket), `/reviewer` ranked queue + SHAP, `/admin` funnel + fairness.
-# 2. Admissions Copilot — Dashboard / Reviewer Interface
+# 2. Architecture
 ![Admissions Copilot Application Interface2](real.jpg)
 ## Docker
 `docker compose up --build` starts Postgres + API (port 8000). Run the web app with `npm run dev`.
