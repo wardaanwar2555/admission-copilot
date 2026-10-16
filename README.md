@@ -7,7 +7,7 @@ orchestrated with LangGraph, with a FastAPI backend and a Next.js reviewer/admin
 
 
 # 2. Admissions Copilot — Dashboard / Reviewer Interface
-![Admissions Copilot Application Interface](pic2.png)
+![Admissions Copilot Application Interface1](pic2.png)
 ## Quick start (local, no Docker, no API keys)
 ```bash
 cp .env.example .env
