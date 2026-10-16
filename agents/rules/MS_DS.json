@@ -1,0 +1,8 @@
+{
+  "program": "MS_DS",
+  "min_gpa": 3.0,
+  "reject_below_gpa": 2.5,
+  "required_fields": ["gpa", "gre", "toefl"],
+  "required_documents": 0,
+  "deadline": "2030-01-15"
+}

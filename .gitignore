@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+.env
+node_modules/
+.next/
+ml/artifacts/
+data/uploads/
